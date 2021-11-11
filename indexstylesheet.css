@@ -1,0 +1,17 @@
+body {
+    background: #d9ddd9;
+}
+header {
+    position: relative;
+    font-family: helvetica;
+    background: #f06d06;
+    color: white;
+    text-align: center;
+    font-size: 3vw;
+    border-radius: 15px;
+  }
+  nav {
+      position: relative;
+      font-family: helvetica;
+      background-color: #f06b06e5;
+  }

@@ -1,6 +1,9 @@
 body {
     background-image: url(img/Coding.jpeg);
     background-color: blue;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 header {

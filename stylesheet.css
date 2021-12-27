@@ -1,5 +1,6 @@
 body {
-    background-image: img/Coding;
+    background-image: url(img/Coding.jpeg);
+    background-color: blue;
 }
 
 header {
